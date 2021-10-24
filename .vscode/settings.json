@@ -1,0 +1,6 @@
+{
+    "workbench.settings.editor": "json",
+    "python.condaPath": "/Users/jsehnert101/opt/miniconda",
+    "python.pythonPath": "/Users/jsehnert101/opt/miniconda3/bin/python",
+    "python.venvPath": "/Users/jsehnert101/opt/miniconda3/envs"
+}
